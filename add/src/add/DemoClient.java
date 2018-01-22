@@ -7,6 +7,6 @@ public class DemoClient
 		Demo demo = new Demo();
 		System.out.println(demo.add(4, 6));
 		
-		System.out.println("first change");
+		System.out.println("second  change");
 	}
 }
