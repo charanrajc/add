@@ -8,5 +8,6 @@ public class DemoClient
 		System.out.println(demo.add(4, 6));
 		
 		System.out.println("second  change");
+		System.out.println("first change");
 	}
 }
